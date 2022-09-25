@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to Genplat Projects</h1>
-<h3 align="center">A passionate frontend developer from spaghetti</h3>
+<h3 align="center">The Official Bussines Account Of Genplat Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinfengcs88&label=Profile%20views&color=0e75b6&style=flat" alt="kevinfengcs88" /> </p>
 
